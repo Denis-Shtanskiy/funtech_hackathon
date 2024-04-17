@@ -189,7 +189,7 @@ EMAIL_HOST_PASSWORD
 
 backend:
 - [Denis Shtanskiy](https://github.com/Denis-Shtanskiy) /
-Telegram: [@shtanskiy](https://t.me/stanskiy
+Telegram: [@shtanskiy](https://t.me/stanskiy)
 - [Ira Vorontsova](https://github.com/RavenIV) /
 Telegram: [@ivory_iv](https://t.me/ivory_iv)
 - [Oleg Chuzhmarov](https://github.com/floks41) /
